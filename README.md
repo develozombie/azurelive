@@ -24,7 +24,7 @@ Aprendemos sobre Azure, Microservicios, Containers y Kubernetes
 
 ## Grabación
 
-Link al video: [Youtube](https://www.youtube.com/watch?v=WBjPTxJvHNM&t=13s)
+Link al video: [Youtube](https://www.youtube.com/watch?v=WBjPTxJvHNM)
 
 ## PPT
 
@@ -33,4 +33,14 @@ Link a ppt: [PPT](https://github.com/jyapurv/azurelive/blob/master/clase2.pdf)
 
 Link a GitHub: [GitHub](https://github.com/jyapurv/azure-workshop)
 # Sesión 3
+En esta sesión hablaremos de como crear un flujo serverless usando Event Driven Architecture con Logic Apps y Function Apps
+## Grabación
+
+Link al video: [Youtube](https://www.youtube.com/watch?v=K6hlZ5D25t0)
+
+## PPT
+
+Link a ppt: [PPT](https://github.com/jyapurv/azurelive/blob/master/clase3.pdf)
+## Código
+
 Pronto!

@@ -28,7 +28,7 @@ Link al video: [Youtube](https://www.youtube.com/watch?v=WBjPTxJvHNM)
 
 ## PPT
 
-Link a ppt: [PPT](clase 2.pdf)
+Link a ppt: [PPT](https://github.com/jyapurv/azurelive/blob/master/clase%202.pdf)
 ## Código
 
 Link a GitHub: [GitHub](https://github.com/jyapurv/azure-workshop)

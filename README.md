@@ -43,4 +43,4 @@ Link al video: [Youtube](https://www.youtube.com/watch?v=K6hlZ5D25t0)
 Link a ppt: [PPT](https://github.com/jyapurv/azurelive/blob/master/clase3.pdf)
 ## Código
 
-Pronto!
+Link a GitHub: [GitHub](https://github.com/jyapurv/azurelive/tree/master/clase3)

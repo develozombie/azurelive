@@ -2,6 +2,18 @@
 
 Hola! Soy José Yapur, este es el repositorio oficial de Azure Live donde encontrarás toda la información sobre el material usado en las sesiones.
 
+# Presentación DevOps Peru: Creando aplicaciones Serverless en Azure bajo un modelo de escritura asíncrona usando Mensajería 
+
+## Grabación
+
+Link al video: [Youtube](https://www.youtube.com/watch?v=1x-GJYi40pk&t=20s)
+
+## PPT
+
+Link a ppt: [PPT](https://github.com/jyapurv/azurelive/blob/master/serverless-mensaje.pdf)
+## Código
+
+Link a GitHub: [GitHub](https://github.com/jyapurv/azurelive/tree/master/clase3)
 
 # Sesión 1
 
